@@ -1,152 +1,152 @@
 Card,Color,Magic_Boost,Physical_Boost,ATKSpeed_Boost,Defense_Boost,Synergy,Magic_Equipment,Physical_Equipment,ATKSpeed_Equipment,Defense_Equipment,Hero_Recruitment,Capacity+,Economy,Commander_EXP,Commander_Life,Synergy_Effect
 Doomsworm's Blessing,Orange,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
-Breath of Berserk III,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Thickened Blood III,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Magic Immersion III,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Party's Opening,,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
-Golden Era,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Premium Client II,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Sharp Arrow,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Strategizing,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-Satan's Whisper,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Vault Upgrade,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Fully Armed,,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
-Fortified,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
-Box of Holy Objects,,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
-The Hunt,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-Technological Revolution,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-Yesterday Once More,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Victory Horn III,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Combat Training II,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Death Oracle,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Peculiar Merchant,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-"The More, the Merrier",,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Untamed Soul,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Ethereal Essence,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Novel Equipment,,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
-Magical Training II,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Surprise Splash,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Last Resort,,0,0,0,0,0,1,1,0,1,0,0,1,1,0,0
-Golden Era+,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Technological Revolution+,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-Frontline Support,,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
-Vault Upgrade+,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Opening Promotion,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Victory Horn III+,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Ally's Call,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Territory Agreement,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Swordman's Blessing,,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
-Marksman's Blessing,,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
-Northern Vale's Blessing,,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
-Dragon Altar's Blessing,,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
-Astro Power's Blessing,,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
-Erudito's Blessing,,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
-Weapon Master's Blessing,,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
-Defender's Blessing,,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
-Dauntless' Blessing,,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
-Bruiser's Blessing,,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
-Dawnbringer's Blessing,,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
-Emberlord's Blessing,,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
-Stargazer's Blessing,,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
-Mage's Blessing,,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
-Pas de Deux,,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-Thickened Blood II,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leaf & Flower,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Elite Team,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Frontier Blitz,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Steel Front,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-Blood Claw,,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-Eternity,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Magic Immersion II,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barrier's Seal II,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-Bright Sunshine,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Total Domination,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Howling Wind,,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
-Purest Power II,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Solid Alliance II,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-All-around Warrior II,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
-Team Mission,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Breath of Berserk II,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-Victory Horn II,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Magical Training I,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Combat Training I,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Reinforcement+,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Winner's Mark,,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
-Fast Promotion,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Manic Slam,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-Magic Surge,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Attack & Defend II,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-Talisman Unleashed,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
-Bounty Hunt,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Fortified Defense,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-Fully Loaded,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Defeat's Dividend,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-Heroic Arrival,,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
-Glorious Rogue,,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
-Vanguard Leader,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Transfer Initiative,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Rogue Mercenary,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Rising Festivies,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Glittering Jewels II,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Fateful Dice,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Premium Client I,,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Mage's Badge,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Marksman's Badge,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Weapon Master's Badge,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Defender's Badge,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Dauntless' Badge,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Bruiser's Badge,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Dawnbringer's Badge,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Stargazer's Badge,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Emberlord's Badge,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Seal Dispel,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-Demon Commander,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-Possessed Blade,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-Celestial Embrace,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-Eternal Knowledge,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-Dragon Veil,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-Snowstorm,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-Adequate Stock,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Swordman's Badge,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Doomsworm's Badge,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Dragon Altar's Badge,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Northern Vale's Badge,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Full Throttle,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-Enlightenment,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-The Book of War,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-Payday,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Steady Growth II,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Apex Weapons,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Counteraction,,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
-Unlimited Expansion II,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Coronation,,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
-Equipment Vault,,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
-Reinforcement,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Airdrop Command,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Customize Recruitment II,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Erudito's Badge,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Unyielding Spirit,,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0
-Astro Power Badge,,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
-Purest Power I,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Solid Alliance I,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Jump the Gun+,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-Healing Fountain,,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
-Heroes Assemble,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Prime Selection,,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-Attack & Defend I,,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
-Rogue's Aid,,0,0,0,,0,1,1,1,1,0,0,0,0,0,0
-Dark Blade,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-Breath of Berserk I,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-Cyclical Support,,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
-Magic Immersion I,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barrier's Seal I,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-Rock Solid,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Glittering Jewels I,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Jump the Gun,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
-Unlimited Expansion I,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Steady Growth I,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Ocean Treasure,,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0
-Excellent Recruit,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Customize Recruitment I,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Thickened Blood I,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Uncertain Fortune,,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Breath of Berserk III,Orange,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thickened Blood III,Orange,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Magic Immersion III,Orange,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Party's Opening,Orange,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Golden Era,Orange,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Premium Client II,Orange,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Sharp Arrow,Orange,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Strategizing,Orange,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Satan's Whisper,Orange,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Vault Upgrade,Orange,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Fully Armed,Orange,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+Fortified,Orange,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+Box of Holy Objects,Orange,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+The Hunt,Orange,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Technological Revolution,Orange,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Yesterday Once More,Orange,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Victory Horn III,Orange,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Combat Training II,Orange,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Death Oracle,Orange,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Peculiar Merchant,Orange,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"The More, the Merrier",Orange,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Untamed Soul,Orange,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ethereal Essence,Orange,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Novel Equipment,Orange,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+Magical Training II,Orange,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Surprise Splash,Orange,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Last Resort,Orange,0,0,0,0,0,1,1,0,1,0,0,1,1,0,0
+Golden Era+,Orange,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Technological Revolution+,Orange,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Frontline Support,Orange,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+Vault Upgrade+,Orange,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Opening Promotion,Orange,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Victory Horn III+,Orange,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ally's Call,Orange,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Territory Agreement,Orange,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Swordman's Blessing,Orange,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Marksman's Blessing,Orange,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+Northern Vale's Blessing,Orange,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Dragon Altar's Blessing,Orange,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Astro Power's Blessing,Orange,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Erudito's Blessing,Orange,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+Weapon Master's Blessing,Orange,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+Defender's Blessing,Orange,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+Dauntless' Blessing,Orange,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+Bruiser's Blessing,Orange,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0
+Dawnbringer's Blessing,Orange,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+Emberlord's Blessing,Orange,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+Stargazer's Blessing,Orange,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+Mage's Blessing,Orange,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+Pas de Deux,Purple,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Thickened Blood II,Purple,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leaf & Flower,Purple,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Elite Team,Purple,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Frontier Blitz,Purple,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Steel Front,Purple,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Blood Claw,Purple,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Eternity,Purple,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Magic Immersion II,Purple,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barrier's Seal II,Purple,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bright Sunshine,Purple,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Total Domination,Purple,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Howling Wind,Purple,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+Purest Power II,Purple,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Solid Alliance II,Purple,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+All-around Warrior II,Purple,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Team Mission,Purple,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Breath of Berserk II,Purple,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Victory Horn II,Purple,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Magical Training I,Purple,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Combat Training I,Purple,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reinforcement+,Purple,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Winner's Mark,Purple,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+Fast Promotion,Purple,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Manic Slam,Purple,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Magic Surge,Purple,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Attack & Defend II,Purple,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Talisman Unleashed,Purple,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Bounty Hunt,Purple,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Fortified Defense,Purple,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Fully Loaded,Purple,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Defeat's Dividend,Purple,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Heroic Arrival,Purple,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0
+Glorious Rogue,Purple,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+Vanguard Leader,Purple,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transfer Initiative,Purple,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Rogue Mercenary,Purple,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Rising Festivies,Purple,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Glittering Jewels II,Purple,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Fateful Dice,Purple,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Premium Client I,Purple,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Mage's Badge,Purple,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Marksman's Badge,Purple,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Weapon Master's Badge,Purple,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Defender's Badge,Purple,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Dauntless' Badge,Purple,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Bruiser's Badge,Purple,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Dawnbringer's Badge,Purple,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Stargazer's Badge,Purple,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Emberlord's Badge,Purple,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Seal Dispel,Purple,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Demon Commander,Purple,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Possessed Blade,Purple,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Celestial Embrace,Purple,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Eternal Knowledge,Purple,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Dragon Veil,Purple,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Snowstorm,Purple,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Adequate Stock,Purple,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Swordman's Badge,Purple,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Doomsworm's Badge,Purple,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Dragon Altar's Badge,Purple,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Northern Vale's Badge,Purple,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Full Throttle,Purple,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Enlightenment,Purple,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+The Book of War,Purple,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Payday,Purple,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Steady Growth II,Purple,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Apex Weapons,Purple,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Counteraction,Purple,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+Unlimited Expansion II,Purple,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Coronation,Purple,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+Equipment Vault,Purple,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+Reinforcement,Purple,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Airdrop Command,Purple,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Customize Recruitment II,Purple,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Erudito's Badge,Purple,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Unyielding Spirit,Purple,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0
+Astro Power Badge,Purple,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Purest Power I,Blue,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Solid Alliance I,Blue,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jump the Gun+,Blue,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Healing Fountain,Blue,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+Heroes Assemble,Blue,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Prime Selection,Blue,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Attack & Defend I,Blue,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Rogue's Aid,Blue,0,0,0,,0,1,1,1,1,0,0,0,0,0,0
+Dark Blade,Blue,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Breath of Berserk I,Blue,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Cyclical Support,Blue,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+Magic Immersion I,Blue,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barrier's Seal I,Blue,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Rock Solid,Blue,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Glittering Jewels I,Blue,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Jump the Gun,Blue,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Unlimited Expansion I,Blue,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Steady Growth I,Blue,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Ocean Treasure,Blue,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0
+Excellent Recruit,Blue,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Customize Recruitment I,Blue,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Thickened Blood I,Blue,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uncertain Fortune,Blue,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
