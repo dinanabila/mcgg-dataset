@@ -1,0 +1,54 @@
+Hero,Faction,Role,Row,Cost
+Dyrroth,Doomsworm,Bruiser,Front,3
+Hylos,Doomsworm,Defender,Front,2
+Franco,Doomsworm,Dauntless,Front,5
+Argus,Doomsworm,Weapon Master,Front,4
+Irithel,Doomsworm,Marksman,Back,4
+Cyclops,Doomsworm,Stargazer,Back,1
+Masha,Northern Vale,Bruiser,Front,2
+Atlas,Northern Vale,Defender,Front,1
+Freya,Northern Vale,Weapon Master,Front,3
+Popol and Kupa,Northern Vale,Summoner,Back,3
+Aurora,Northern Vale,Mage,Back,5
+Yve,Northern Vale,Stargazer,Back,4
+Akai,Dragon Altar,Dauntless,Front,2
+Suyou,Dragon Altar,Weapon Master,Front,2
+Ling,Dragon Altar,Swordsman,Front,4
+Wanwan,Dragon Altar,Marksman,Back,1
+Sun,Dragon Altar,Summoner,Front,5
+Chang'e,Dragon Altar,Stargazer,Back,3
+Badang,Emberlord,Bruiser,Front,1
+Kaja,Emberlord,"Defender, Support",Mid,4
+Balmond,Emberlord,Dauntless,Front,2
+Thamuz,Emberlord,Weapon Master,Front,3
+Moskov,Emberlord,Marksman,Back,5
+Gord,Emberlord,Mage,Back,4
+Minotaur,Astro Power,Defender,Front,5
+Martis,Astro Power,Weapon Master,Front,2
+Karina,Astro Power,Swordsman,Front,3
+Zhask,Astro Power,Summoner,Back,1
+Odette,Astro Power,Mage,Back,3
+Lunox,Astro Power,Stargazer,Back,4
+Johnson,Eruditio,Defender,Front,3
+Diggie,Eruditio,Support,Back,2
+Lolita,Eruditio,Dauntless,Front,1
+Nolan,Eruditio,Swordsman,Front,4
+Layla,Eruditio,Marksman,Back,2
+Natan,Eruditio,Stargazer,Back,5
+Aldous,Dawnbringer,Bruiser,Front,2
+Terizla,Dawnbringer,Defender,Front,4
+Uranus,Dawnbringer,Dauntless,Front,3
+Gusion,Dawnbringer,Swordsman,Front,2
+Vexana,Dawnbringer,Summoner,Back,4
+Vale,Dawnbringer,Mage,Back,1
+Alpha,Shadeweaver,Weapon Master,Front,5
+Helcurt,Shadeweaver,Swordsman,Front,1
+Clint,Shadeweaver,Marksman,Back,3
+Luo Yi,Shadeweaver,Stargazer,Back,2
+Guinevere,Faeborn,Bruiser,Front,4
+Esmeralda,Faeborn,"Dauntless, Support",Front,3
+Angela,Faeborn,Mage,Back,2
+Yu Zhong,Exorcist,Bruiser,Front,5
+Hayabusa,Exorcist,Swordsman,Front,4
+Granger,Exorcist,Marksman,Back,2
+Kagura,Exorcist,Mage,Back,3
