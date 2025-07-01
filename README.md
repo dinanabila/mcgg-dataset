@@ -56,3 +56,7 @@ By linking match data with this reference information, we can uncover deeper pat
 - Map hero usage to roles/factions for synergy analysis
 - Analyze the strategic impact of specific card attributes
 - Cluster or group cards/heroes by characteristics (e.g., all economy-boosting cards)
+
+## 🏗️ Collection Methodology
+**Manual Data Entry**
+All data was entered manually into a spreadsheet. 
