@@ -6,15 +6,15 @@ This repository contains **reference datasets** for heroes and cards used in Mag
 The dataset consists of **two csv files**:
 ### 1. `heroes`
 
-A dataset containing static information about all heroes available in the game.
+A dataset containing information about all heroes available in the game.
 
 | Column Name | Description |
 |-------------|-------------|
 | `Hero`      | Name of the hero |
-| `Faction`   | Hero's faction (e.g., DoomSworm, Scarlet Shadow) |
-| `Role`      | Hero's role/class (e.g., Bruiser, Defender) |
+| `Faction`   | Hero's faction (e.g., Doomsworm, Faeborn) |
+| `Role`      | Hero's role (e.g., Marksman, Defender) |
 | `Row`       | Recommended position on the board (`Front` or `Back`) |
-| `Cost`      | Hero's mana cost in the shop (1 to 5) |
+| `Cost`      | Hero's gold cost in the shop (1 to 5) |
 
 ### 2. `cards`
 
@@ -24,9 +24,9 @@ Each card is encoded with **binary features**: `1` indicates that the card has t
 | Column Name         | Description |
 |---------------------|-------------|
 | `Card`              | Name of the card |
-| `Color`             | Card rarity or type (e.g., Orange, Purple) |
-| `Magic_Boost`       | Boosts magic damage |
-| `Physical_Boost`    | Boosts physical damage |
+| `Color`             | Card color type (e.g., Orange, Purple) |
+| `Magic_Boost`       | Boosts magic stat |
+| `Physical_Boost`    | Boosts physical stat |
 | `ATKSpeed_Boost`    | Increases attack speed |
 | `Defense_Boost`     | Increases defense or durability |
 | `Synergy`           | Enhances or interacts with a synergy |
@@ -60,3 +60,6 @@ By linking match data with this reference information, we can uncover deeper pat
 ## 🏗️ Collection Methodology
 **Manual Data Entry** <br>
 All data was entered manually into a spreadsheet. 
+
+## 🔗 Also Available in Kaggle
+[https://www.kaggle.com/datasets/dinanabb/magic-chess-go-go](https://www.kaggle.com/datasets/dinanabb/magic-chess-go-go)
