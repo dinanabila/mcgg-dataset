@@ -58,5 +58,5 @@ By linking match data with this reference information, we can uncover deeper pat
 - Cluster or group cards/heroes by characteristics (e.g., all economy-boosting cards)
 
 ## 🏗️ Collection Methodology
-**Manual Data Entry**
+**Manual Data Entry** <br>
 All data was entered manually into a spreadsheet. 
