@@ -1,4 +1,4 @@
-# Magic Chess Hero & Card Reference Dataset
+# Magic Chess: Go Go Hero & Card Reference Dataset
 
 This repository contains **reference datasets** for heroes and cards used in Magic Chess: Go Go. These datasets are intended to complement the [Magic Chess: Go Go Matches Dataset](https://github.com/dinanabila/mcgg-matches-dataset) by providing structured information about hero attributes and card effects in order to enabling more meaningful and accurate analysis.
 
